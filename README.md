@@ -29,6 +29,8 @@ Here is a list of open source Hardware/Robotics/Hardware-Software/open source em
 | [BeagleBoard.org](https://summerofcode.withgoogle.com/organizations/#6043674239041536)|
 
 
-## License
+## License 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 This project is licensed under [MIT License](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/LICENSE)
 
