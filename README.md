@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here is a list of open source Hardware/Robotics/Hardware-Software/open source embedded software projects online that you can involve in ! You can contribute voluntarily and also take part in [Google Summer of Code Program].(https://summerofcode.withgoogle.com/). Here is the the beginner guide to Hack GSoC! [The-Beginners-Guide-to-Google-Summer-of-Code-GSoC](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC)
+Here is a list of open source Hardware/Robotics/Hardware-Software/open source embedded software projects online that you can involve in ! You can contribute voluntarily and also take part in [Google Summer of Code Program](https://summerofcode.withgoogle.com/). Here is the the beginner guide to Hack GSoC! [The-Beginners-Guide-to-Google-Summer-of-Code-GSoC](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC)
 
 
 | Open-Source Organisation |
