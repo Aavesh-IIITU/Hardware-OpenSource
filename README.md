@@ -2,12 +2,14 @@
 
 ## Introduction
 
-
+Here is a list of open source projects online that you can involve in ! 
 
 
 | Open-Source Organisation |
 |------------|
 | [Center for Research in Open Source Software at UC Santa Cruz](https://summerofcode.withgoogle.com/organizations/4813203146539008/) |
+| [Fusesoc](https://github.com/olofk/fusesoc)|
+| [SERV - The SErial RISC-V CPU](https://github.com/olofk/serv)|
 | [CERN-HSF](https://summerofcode.withgoogle.com/organizations/?sp-page=2#4639943769456640 ) |
 | [CircuitVerse.org](https://summerofcode.withgoogle.com/organizations/?sp-page=2#6560513423572992)|
 | [Fossi Foundation](https://summerofcode.withgoogle.com/organizations/?sp-page=2#4914571964317696)|
