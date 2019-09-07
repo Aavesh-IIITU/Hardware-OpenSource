@@ -1,5 +1,7 @@
 # Hardware-OpenSource
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ## Introduction
 
 Here is a list of open source Hardware/Robotics/Hardware-Software/open source embedded software projects online that you can involve in ! You can contribute voluntarily and also take part in [Google Summer of Code Program](https://summerofcode.withgoogle.com/) (*if the organisation gets selected for the program !*). Here is the the beginner guide to Hack GSoC! [The-Beginners-Guide-to-Google-Summer-of-Code-GSoC](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC)
